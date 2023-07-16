@@ -1,6 +1,7 @@
 # My Learning
 ## Essentials:
-* Git and Github from Freecodecamp
+* Basic Markdown
+* [Git and Github from Freecodecamp](https://www.youtube.com/watch?v=RGOj5yH7evk)
 * Command Line Prompt Usage
 * Vi editor
 
